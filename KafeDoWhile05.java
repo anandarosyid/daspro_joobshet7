@@ -6,7 +6,6 @@ public class KafeDoWhile05 {
         int kopi, teh, roti;
         String namapelanggan;
         int hkopi = 12000, hteh = 7000, hroti = 20000;
-
         do {
             System.out.print("masukan nama pelanggan (ketik 'batal' untuk keluar): ");
             namapelanggan = sc.nextLine();
